@@ -1,2 +1,7 @@
 Encabezado 1
 =============
+Este es el texte de control
+He escrito en Master y en Luis
+Sólo indicaré que suba Luis
+de forma quólo deben de verse
+estos cambios
