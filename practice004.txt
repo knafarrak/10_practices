@@ -1,2 +1,8 @@
 estee es un texto añadido después
 del pudh a GH
+Esto es texto que añado justo
+cuando ana o maria añaden sus texto pero
+en este caso pondremos un psuh de una ramaç
+y nada más
+este texto no debe aparece cuando haga
+el push de ana
